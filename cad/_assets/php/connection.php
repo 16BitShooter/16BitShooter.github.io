@@ -7,10 +7,10 @@
 ?>
 <?php
 
-$host = 'localhost';
-$name = 'pdrpnetw_bobble';
-$password = 'cookiesforever';
-$dbname = 'pdrpnetw_mdt';
+$host = '47.42.19.212';
+$name = 'mdt';
+$password = 'mdt';
+$dbname = 'webmdt';
 
 $con = mysqli_connect($host, $name, $password, $dbname);
 
